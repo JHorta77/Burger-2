@@ -1,5 +1,5 @@
 * {  
-    font-family: 'Abril Fatface', cursive; 
+    font-family: 'Prata', serif; 
     letter-spacing: 0.04em; 
 }
 html, body { 
@@ -10,7 +10,7 @@ html, body {
 }
 
 H1, H2, H3, H4, H5 {
-    font-family: 'Abril Fatface', cursive;
+    font-family: 'Prata', serif;
 }
 
 .burger-box {
@@ -59,7 +59,7 @@ H1, H2, H3, H4, H5 {
 }
 
 #floating-content {
-    background: #111 url(/assets/img/burger.jpg) center center no-repeat;
+    background: #111  center center no-repeat;
     background-size: 100% auto;
     position: absolute;
     top: 50%;
