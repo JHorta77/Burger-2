@@ -6,7 +6,9 @@ A restaurant app where you can keep track of orders.
 
 JavaScript, Handlebars.js, CSS, MySQL, Sequelize, Node and Express.
 
-# 
+# Get Started 
+
+Click the link at the top of the page to view the site.
 
 # How it works 
 
